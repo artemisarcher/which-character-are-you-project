@@ -1,0 +1,43 @@
+button{
+   color:coral; 
+   background-image:linear-gradient(gold , red , blue  , blue , red , gold);
+}
+
+.bw{
+ width:500px;   
+}
+
+.message{ 
+ font-size:50px; 
+}
+
+.ws{
+ width:500px;   
+}
+
+.cap{
+ width:500px;   
+}
+
+.nick{
+ width:500px;   
+}
+
+.he{
+ width:500px;   
+}
+
+h1{
+ color:springgreen;   
+}
+
+p{
+ color:forestgreen;   
+}
+
+body{
+background-image:linear-gradient( maroon
+, gainsboro , black );    
+background-repeat:no-repeat;
+background-color:cadetblue;
+}
